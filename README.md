@@ -4,3 +4,4 @@
 
 ![Schematic](Z80Schem.pdf)
 
+- Please use it at your own risk.
